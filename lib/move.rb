@@ -10,6 +10,8 @@ end
 def input_to_index(num)
   num = num.to_i
   num = num - 1
-  # return num
 end
-# input_to_index(num)
+
+def move(array, index, value)
+end
+  
